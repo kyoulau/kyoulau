@@ -11,7 +11,7 @@ Willkommen, em alemão significa Bem-vindo ! Eu sinto gratidão por você estar
 
 <h3>☕ Currently I am...</h3>
 <ul>
-<li><b>Learning:</b> SpringBoot, Javascript and creating APIs !</li>
+<li><b>Learning:</b> NESTJS and creating APIs !</li>
 </ul>
 
 ##
