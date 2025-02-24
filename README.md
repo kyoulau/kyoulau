@@ -28,7 +28,7 @@ Willkommen, em alemão significa Bem-vindo ! Eu sinto gratidão por você estar
 
 <h3>Programming Languages</h3>
 <div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  height="30" width="40"/>
           
