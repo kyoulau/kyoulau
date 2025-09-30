@@ -7,7 +7,7 @@
 <p align="justify">
 Willkommen, em alemão significa Bem-vindo ! Eu sinto gratidão por você estar aqui no meu perfil! Aqui eu costumo compartilhar meus aprendizados durante minha jornada com a programação, atualmente estou graduando Sistemas de Informação na Universidade PUC-PR e aprendendo cada vez sobre esse mundo encantador dos códigos, o qual sempre fui apaixonada! Eu também costumo compartilhar parte da minha vida nas minhas redes sociais como o Linkedin.
 
-<p align="justify">Atualmente sou Intern na empresa <a href="https://www.linkedin.com/company/volvo-group/posts/?feedView=all">Volvo</a>, onde trabalho dentro do time API & Integrations Intern ! Para entrar em contato comigo, mande uma mensagem para <a href="mailto:laucosan05@gmail.com">meu email</a>.</p>
+<p align="justify"> Para entrar em contato comigo, mande uma mensagem para <a href="mailto:laucosan05@gmail.com">meu email</a>.</p>
 
 <h3>☕ Currently I am...</h3>
 <ul>
