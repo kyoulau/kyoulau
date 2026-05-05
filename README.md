@@ -4,8 +4,36 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=25&pause=1000&color=F760AF&background=4543FF00&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B7+Having+fun+programming!+%F0%9F%92%97" alt="Typing SVG" /></a>
 </div>
 <hr>
+
+<table>
+  <tr>
+    <td>
+      <pre>
+		                               
+　　　　　🌸＞　　フ
+　　　　　| 　_　 _ l
+　 　　　／` ミ＿xノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ   𓍢ִ໋🌷͙֒♥︎
+      </pre>
+    </td>
+    <td>
+      <h3> Software Engineer </h3>
+      <ul>
+        <li> 🎓 Estudante de Sistemas de Informação na <b>PUCPR</b> </li>
+        <li> 🤖 AI Apprentice focada em <b>agentes de IA e automação</b> </li>
+        <li> 🛠️ Stack: NestJS, n8n, React Native e PostgreSQL </li>
+        <li> 🇩🇪 Nível A2 em Alemão </li>
+        <li> 📖 Fã de Kafka e Dostoyévski </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <p align="justify">
-Willkommen, em alemão significa Bem-vindo ! Eu sinto gratidão por você estar aqui no meu perfil! Aqui eu costumo compartilhar meus aprendizados durante minha jornada com a programação, atualmente estou graduando Sistemas de Informação na Universidade PUC-PR e aprendendo cada vez sobre esse mundo encantador dos códigos, o qual sempre fui apaixonada! Eu também costumo compartilhar parte da minha vida nas minhas redes sociais como o Linkedin.
 
 <p align="justify"> Para entrar em contato comigo, mande uma mensagem para <a href="mailto:laucosan05@gmail.com">meu email</a>.</p>
 
