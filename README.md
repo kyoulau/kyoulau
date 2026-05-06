@@ -24,22 +24,22 @@
     <td>
       <h3> Software Engineer </h3>
       <ul>
-        <li> 🎓 Estudante de Sistemas de Informação na <b>PUCPR</b> </li>
-        <li> 🤖 AI Apprentice focada em <b>agentes de IA e automação</b> </li>
-        <li> 🛠️ Stack: NestJS, n8n, React Native e PostgreSQL </li>
-        <li> 🇩🇪 Nível A2 em Alemão </li>
-        <li> 📖 Fã de Kafka e Dostoyévski </li>
+        <li> 🎓 Information Systems Student at <b>PUCPR</b> </li>
+        <li> 🤖 AI Apprentice focused on AI agents and automation</b> </li>
+        <li> 🛠️ SStack: NestJS, n8n, React, Django and PostgreSQL </li>
+        <li> 🇩🇪 A2 Level in German </li>
+        <li> 📖 Fan of Kafka and Dostoevsky </li>
       </ul>
     </td>
   </tr>
 </table>
 <p align="justify">
 
-<p align="justify"> Para entrar em contato comigo, mande uma mensagem para <a href="mailto:laucosan05@gmail.com">meu email</a>.</p>
+<p align="justify"> To get in touch with me, send a message to <a href="mailto:laucosan05@gmail.com">my e-mail</a>.</p>
 
 <h3>☕ Currently I am...</h3>
 <ul>
-<li><b>Learning:</b> NESTJS and creating APIs !</li>
+<li><b>Creating:</b> agents and APIs !</li>
 </ul>
 
 ##
