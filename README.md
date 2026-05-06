@@ -26,7 +26,7 @@
       <ul>
         <li> 🎓 Information Systems Student at <b>PUCPR</b> </li>
         <li> 🤖 AI Apprentice focused on AI agents and automation</b> </li>
-        <li> 🛠️ SStack: NestJS, n8n, React, Django and PostgreSQL </li>
+        <li> 🛠️ Stack: NestJS, n8n, React, Django and PostgreSQL </li>
         <li> 🇩🇪 A2 Level in German </li>
         <li> 📖 Fan of Kafka and Dostoevsky </li>
       </ul>
