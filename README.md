@@ -28,7 +28,7 @@
         <li> 🤖 AI Apprentice focused on AI agents and automation</b> </li>
         <li> 🛠️ Stack: NestJS, n8n, React, Django and PostgreSQL </li>
         <li> 🇩🇪 A2 Level in German </li>
-        <li> 📖 Fan of Kafka and Dostoevsky </li>
+        <li> 📖 Fan of Franz Kafka and Dostoevsky </li>
       </ul>
     </td>
   </tr>
